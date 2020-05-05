@@ -1,6 +1,0 @@
-How to run it:
-1)move pipe_client.go to another directory
-2)run gorun.sh
-3)go run pipe_client.go
-4)Type /help to see the available commands
-5)type end to finish the connection
